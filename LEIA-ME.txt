@@ -1,0 +1,38 @@
+MARMORARIA BELA VISTA — SITE INSTITUCIONAL
+
+Estrutura:
+- index.html: página inicial
+- quem-somos.html: história e apresentação
+- servicos.html: serviços
+- contato.html: contatos, horário e mapa
+- styles.css / script.js: estilos e interações
+- assets/logo-bela-vista.png: logotipo enviado
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra index.html em um navegador.
+
+Publicação:
+Envie todos os arquivos e a pasta assets para a hospedagem, mantendo a estrutura.
+O site é estático (HTML, CSS e JavaScript), sem banco de dados ou painel administrativo.
+
+Observações:
+- As fotos de ambientes são imagens ilustrativas externas do Unsplash; não representam obras realizadas pela empresa.
+- Não foram incluídas avaliações, depoimentos, certificações ou portfólio, pois esses materiais não foram fornecidos.
+- O link do Google Maps foi montado a partir do endereço informado; o link de perfil do Google fornecido foi mantido na página de contato.
+- O site usa o WhatsApp informado com a mensagem automática original.
+
+ATUALIZAÇÃO DA GALERIA:
+- Foram incluídas duas fotos reais de projetos enviadas pelo cliente:
+  * projeto-escada-marmore-marrom.jpg
+  * projeto-bancada-cozinha.jpg
+- A página inicial agora possui uma galeria automática de projetos.
+- O intervalo entre fotos é de 6 segundos e o efeito de transição (fade) dura 3 segundos.
+- Há também controles manuais para avançar, voltar e selecionar as fotos.
+- Novas fotos podem ser adicionadas à galeria conforme forem enviadas.
+
+ATUALIZAÇÃO DE NAVEGAÇÃO E DESTAQUE INICIAL:
+- Os links do menu apontam explicitamente para cada página do site.
+- O destaque do menu é definido pela página realmente aberta, evitando que "Início" permaneça marcado nas demais páginas.
+- A imagem principal agora alterna automaticamente entre quatro imagens, com transição suave e pontos para seleção manual.
+- O slideshow pausa ao passar o mouse e respeita a preferência do navegador por movimento reduzido.
